@@ -11,8 +11,9 @@ clear
 echo -e "${CYAN}=====================================${RESET}"
 echo -e "${GREEN}        Welcome to SpamTex!         ${RESET}"
 echo -e "${CYAN}=====================================${RESET}"
-echo -e "${YELLOW}* Developer:${RESET} Nozz Team"
-echo -e "${YELLOW}* Version   :${RESET} 1.0"
+echo -e "${YELLOW}* Developer:${RESET} Nozz Trick"
+echo -e "${YELLOW}* Github   :${RESET} https://github.com/Nozz7z"
+echo -e "${YELLOW}* Version  :${RESET} 1.0"
 echo ""
 
 # Input
