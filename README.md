@@ -22,7 +22,8 @@ cd SpamText
 ```bash
 bash main.sh
 ```
-And Done You Can Use It As Needed
+*And Done You Can Use It As Needed*
 
 ---
-#Thank You 
+# Thanks To You!
+*Code and files created by Nozz*
